@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 
 ## About Me
 
-I'm a software engineer, passionate about web development and machine learning. With 5 years of experience in the tech industry, I've had the opportunity to work on various projects ranging from e-commerce platforms to natural language processing algorithms.
+I'm a software engineering student, passionate about web development and machine learning. I want to opportunity to work on various projects ranging from e-commerce platforms to natural language processing algorithms.
 
 ## What You'll Find Here
 
