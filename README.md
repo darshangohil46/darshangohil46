@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Django...
-
 - 🌱 I’m currently learning Django and Node ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Darshan Gohil's GitHub Profile
+
+- I'm currently studying Information technology(B.E)at L.J Institute of Engineering and Technology, Ahmedabad
 
 ## Introduction
 
