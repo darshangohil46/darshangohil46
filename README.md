@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Darshan Gohil's GitHub Profile
 
-- I'm currently studying Information technology(B.Tech in IT)at L.J Institute of Engineering and Technology, Ahmedabad
+- I'm currently studying B.Tech in IT at L.J Institute of Engineering and Technology, Ahmedabad
 
 ## Introduction
 
