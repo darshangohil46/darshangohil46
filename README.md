@@ -39,7 +39,7 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
 
 - [LinkedIn](https://www.linkedin.com/in/darshan-gohil-9b8926278/)
 - [Instagram](https://www.instagram.com/darshan__gohil__/)
-- [Personal Website](https://www.johndoe.com)
+- [Personal Website](https://gohildarshanpersonalwebsite.on.drv.tw/gohildarshan.com/)
 
 ## Let's Collaborate!
 
